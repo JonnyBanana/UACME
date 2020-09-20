@@ -506,3 +506,13 @@ https://blogs.msdn.microsoft.com/oldnewthing/20160816-00/?p=94105
 # 3rd party components usage
 
 MinHook - The Minimalistic x86/x64 API Hooking Library for Windows, https://github.com/TsudaKageyu/minhook
+
+
+
+</BR>
+
+<a href="https://golden-farm.biz/?r=1673249" target="_blank">
+<img src="https://golden-farm.biz/images/promo/en/728x90.gif"
+alt="Profit every 10 minutes!"></a>
+
+
